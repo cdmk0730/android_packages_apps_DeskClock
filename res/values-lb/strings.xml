@@ -117,7 +117,7 @@
   <string name="gallery_button_description">Galerie</string>
   <string name="music_button_description">Musek</string>
   <string name="nightmode_button_description">Dimmen</string>
-  <string name="home_button_description">Heemknäppchen</string>
+  <string name="home_button_description">Startsäit-Knäppchen</string>
   <string name="desk_clock_button_description">Auerenusiicht</string>
   <string name="label_description">Beschreiwung</string>
   <string name="ringtone_description">Schelltoun</string>
@@ -156,7 +156,7 @@
   <string name="zero">0</string>
   <string name="sw_share_main">Meng Zäit ass <xliff:g id="time">%s</xliff:g></string>
   <string name="sw_share_laps">Ronnenzäiten:</string>
-  <string name="sw_notification_lap_number">Ronn <xliff:g id="number">%d</xliff:g></string>
+  <string name="sw_notification_lap_number"><xliff:g id="number">%d</xliff:g>. Ronn</string>
   <plurals name="Nhours_description">
     <item quantity="one">1 Stonn</item>
     <item quantity="other"><xliff:g id="number" example="7">%d</xliff:g> Stonnen</item>
@@ -266,12 +266,12 @@
     <item>"Teheran"</item>
     <item>"Baku"</item>
     <item>"Tiflis"</item>
-    <item>"Jerewan"</item>
+    <item>"Eriwan"</item>
     <item>"Dubai"</item>
     <item>"Kabul"</item>
     <item>"Islamabad, Karachi"</item>
     <item>"Ural'sk"</item>
-    <item>"Jekaterinburg"</item>
+    <item>"Jekaterinbuerg"</item>
     <item>"Kolkata"</item>
     <item>"Sri Lanka"</item>
     <item>"Kathmandu"</item>
